@@ -1,0 +1,8 @@
+/Users/chazhenricks/workspace/csharp/orientation/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.deps.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.runtimeconfig.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.runtimeconfig.dev.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/family_dictionary/bin/Debug/netcoreapp1.1/family_dictionary.pdb
+/Users/chazhenricks/workspace/csharp/orientation/exercises/family_dictionary/obj/Debug/netcoreapp1.1/family_dictionary.AssemblyInfo.cs
+/Users/chazhenricks/workspace/csharp/orientation/exercises/family_dictionary/obj/Debug/netcoreapp1.1/family_dictionary.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/family_dictionary/obj/Debug/netcoreapp1.1/family_dictionary.pdb
